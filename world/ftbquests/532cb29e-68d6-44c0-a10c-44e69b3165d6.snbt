@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "532cb29e68d644c0a10c44e69b3165d6"
+	name: "Markboy124#532cb29e"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

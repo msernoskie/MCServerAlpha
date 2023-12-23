@@ -1,0 +1,85 @@
+[23Dec2023 00:00:04.352] [Netty Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatCommandPacket
+[23Dec2023 00:00:04.361] [Netty Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatPacket
+[23Dec2023 00:00:04.363] [Netty Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatSessionUpdatePacket
+[23Dec2023 00:00:34.257] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1f8c68ec[id=<null>,name=Markboy124,properties={},legacy=false] (/192.168.1.124:49895) lost connection: Disconnected
+[23Dec2023 00:00:43.077] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Markboy124 is 532cb29e-68d6-44c0-a10c-44e69b3165d6
+[23Dec2023 00:00:53.077] [Netty Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 199
+[23Dec2023 00:00:53.115] [Netty Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 200
+[23Dec2023 00:00:53.160] [Netty Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 201
+[23Dec2023 00:00:53.208] [Netty Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 202
+[23Dec2023 00:00:53.402] [Netty Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 203
+[23Dec2023 00:00:53.404] [Netty Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 204
+[23Dec2023 00:00:53.405] [Netty Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 205
+[23Dec2023 00:00:53.411] [Netty Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 206
+[23Dec2023 00:00:53.462] [Netty Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 207
+[23Dec2023 00:00:53.518] [Netty Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 208
+[23Dec2023 00:00:53.558] [Netty Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 209
+[23Dec2023 00:00:53.627] [Netty Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 210
+[23Dec2023 00:00:53.661] [Netty Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 211
+[23Dec2023 00:00:53.711] [Netty Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 212
+[23Dec2023 00:00:53.756] [Netty Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 213
+[23Dec2023 00:00:53.811] [Netty Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 214
+[23Dec2023 00:00:53.969] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[23Dec2023 00:00:54.104] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Markboy124[/192.168.1.124:49912] logged in with entity id 463 at (238.47052319768568, 102.9375, 502.5752775672297)
+[23Dec2023 00:00:54.348] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Markboy124
+[23Dec2023 00:00:54.360] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Markboy124
+[23Dec2023 00:00:54.360] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Markboy124
+[23Dec2023 00:00:54.368] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Markboy124
+[23Dec2023 00:00:54.378] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Markboy124
+[23Dec2023 00:00:54.385] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Markboy124
+[23Dec2023 00:00:54.388] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Markboy124
+[23Dec2023 00:00:54.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markboy124 joined the game
+[23Dec2023 00:00:54.878] [Server thread/INFO] [Treasure Bags/]: Sending 9 bag types to Markboy124
+[23Dec2023 00:00:55.065] [Server thread/INFO] [structurize/]: New Server UUID e9b667c1-c856-4599-bc3d-698fb4e58d72
+[23Dec2023 00:00:55.068] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Markboy124
+[23Dec2023 00:00:55.119] [Server thread/INFO] [MapFrontiers/]: PlayerJoinedEvent done (532cb29e-68d6-44c0-a10c-44e69b3165d6)
+[23Dec2023 00:00:55.126] [Server thread/INFO] [Jade/]: Syncing config to Markboy124 (532cb29e-68d6-44c0-a10c-44e69b3165d6)
+[23Dec2023 00:00:55.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markboy124 has made the advancement [Ice and Fire]
+[23Dec2023 00:00:55.519] [Server thread/INFO] [survive/]: Syncing All Data To Client (Markboy124)
+[23Dec2023 00:00:55.529] [Server thread/INFO] [survive/]: Syncing Armor Data
+[23Dec2023 00:00:55.547] [Server thread/INFO] [survive/]: Done with Armors
+[23Dec2023 00:00:55.547] [Server thread/INFO] [survive/]: Syncing Fluid Data
+[23Dec2023 00:00:55.551] [Server thread/INFO] [survive/]: Done with Fluids
+[23Dec2023 00:00:55.551] [Server thread/INFO] [survive/]: Syncing Biome Data
+[23Dec2023 00:00:55.558] [Server thread/INFO] [survive/]: Done syncing 15 biomes
+[23Dec2023 00:00:56.159] [Server thread/INFO] [ping-wheel/]: [Ping-Wheel] Channel update: Markboy124 -> Global
+[23Dec2023 00:01:22.727] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2875ms or 57 ticks behind
+[23Dec2023 00:02:21.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markboy124 has made the advancement [Apothic Affixes]
+[23Dec2023 00:02:21.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markboy124 has reached the goal [Worthy Equipment]
+[23Dec2023 00:02:21.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markboy124 has made the advancement [How'd You Get This?]
+[23Dec2023 00:02:57.023] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Markboy124 lost connection: Disconnected
+[23Dec2023 00:02:57.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markboy124 left the game
+[23Dec2023 00:02:57.031] [Server thread/INFO] [survive/]: Removing Client (Markboy124) From Survive Data Sync List
+[23Dec2023 00:03:04.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[23Dec2023 00:03:04.406] [Server thread/INFO] [MapFrontiers/]: ServerStoppingEvent done
+[23Dec2023 00:03:04.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Dec2023 00:03:04.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Dec2023 00:03:04.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Dec2023 00:03:05.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23Dec2023 00:03:05.475] [Server thread/WARN] [minecolonies/]: Writing Recipe Manager: 0 recipes!
+[23Dec2023 00:03:07.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[23Dec2023 00:03:07.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[23Dec2023 00:03:07.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[23Dec2023 00:03:07.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/bloodmagic:dungeon
+[23Dec2023 00:03:07.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[23Dec2023 00:03:07.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23Dec2023 00:03:07.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23Dec2023 00:03:07.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[23Dec2023 00:03:07.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[23Dec2023 00:03:07.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[23Dec2023 00:03:08.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Dec2023 00:03:08.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[23Dec2023 00:03:08.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[23Dec2023 00:03:08.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[23Dec2023 00:03:08.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[23Dec2023 00:03:08.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[23Dec2023 00:03:08.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Dec2023 00:03:08.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Dec2023 00:03:08.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[23Dec2023 00:03:08.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[23Dec2023 00:03:08.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[23Dec2023 00:03:08.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23Dec2023 00:03:08.125] [Server thread/INFO] [FTB Chunks/]: Shutting down map thread
+[23Dec2023 00:03:08.127] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@7853e1ea
+[23Dec2023 00:03:08.128] [Server thread/INFO] [Framework/]: Unloading server configs...
+[23Dec2023 00:03:08.220] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
