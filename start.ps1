@@ -192,7 +192,8 @@ Function global:SetupForge
                 "# To set the minimum to 2.5GB: -Xms2500M`n" +
                 "# A good default for a modded server is 4GB.`n" +
                 "# Uncomment the next line to set it.`n" +
-                "# -Xmx4G`n" +
+                "#Xmx12G`n" +
+		"#Xms4G'n" +
                 "${script:JavaArgs}" | Out-File user_jvm_args.txt -encoding utf8
     }
 

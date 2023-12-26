@@ -1,0 +1,94 @@
+{
+	"level_seeds": [
+		{
+			"dim": "minecraft:overworld",
+			"seed": -755735606454645769
+		},
+		{
+			"dim": "minecraft:the_end",
+			"seed": -755735606454645769
+		},
+		{
+			"dim": "twilightforest:twilight_forest",
+			"seed": -755735606454645769
+		},
+		{
+			"dim": "aether:the_aether",
+			"seed": -755735606454645769
+		},
+		{
+			"dim": "blue_skies:everbright",
+			"seed": -755735606454645769
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": -755735606454645769
+		},
+		{
+			"dim": "graveyard:past",
+			"seed": -755735606454645769
+		},
+		{
+			"dim": "undergarden:undergarden",
+			"seed": -755735606454645769
+		},
+		{
+			"dim": "blue_skies:everdawn",
+			"seed": -755735606454645769
+		},
+		{
+			"dim": "bloodmagic:dungeon",
+			"seed": -755735606454645769
+		},
+		{
+			"dim": "deeperdarker:otherside",
+			"seed": -755735606454645769
+		}
+	],
+	"structure_seeds": [
+		{
+			"dim": "minecraft:overworld",
+			"seed": -755735606454645769
+		},
+		{
+			"dim": "minecraft:the_end",
+			"seed": -755735606454645769
+		},
+		{
+			"dim": "twilightforest:twilight_forest",
+			"seed": -755735606454645769
+		},
+		{
+			"dim": "aether:the_aether",
+			"seed": -755735606454645769
+		},
+		{
+			"dim": "blue_skies:everbright",
+			"seed": -755735606454645769
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": -755735606454645769
+		},
+		{
+			"dim": "graveyard:past",
+			"seed": -755735606454645769
+		},
+		{
+			"dim": "undergarden:undergarden",
+			"seed": -755735606454645769
+		},
+		{
+			"dim": "blue_skies:everdawn",
+			"seed": -755735606454645769
+		},
+		{
+			"dim": "bloodmagic:dungeon",
+			"seed": -755735606454645769
+		},
+		{
+			"dim": "deeperdarker:otherside",
+			"seed": -755735606454645769
+		}
+	]
+}

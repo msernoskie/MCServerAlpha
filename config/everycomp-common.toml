@@ -134,6 +134,9 @@
 				penumbral = true
 				glowing_penumbral = true
 
+			[general.types.leaves_type.vampirism]
+				dark_spruce = true
+
 		[general.types.cake]
 
 			[general.types.cake.blue_skies]

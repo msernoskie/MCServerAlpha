@@ -396,9 +396,15 @@
     },
     "done": false
   },
-  "mutantmonsters:root": {
+  "iceandfire:iceandfire/root": {
     "criteria": {
-      "killed_something": "2023-12-23 00:02:19 -0500"
+      "tick": "2023-12-23 00:00:55 -0500"
+    },
+    "done": true
+  },
+  "farlanders:root": {
+    "criteria": {
+      "attack_anything": "2023-12-23 00:01:58 -0500"
     },
     "done": true
   },
@@ -432,12 +438,6 @@
     },
     "done": true
   },
-  "farlanders:root": {
-    "criteria": {
-      "attack_anything": "2023-12-23 00:01:58 -0500"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2023-12-23 00:02:13 -0500"
@@ -450,18 +450,6 @@
     },
     "done": true
   },
-  "skilltree:recipes/misc/assassin_necklace": {
-    "criteria": {
-      "has_bone": "2023-12-23 00:02:21 -0500"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/root": {
-    "criteria": {
-      "tick": "2023-12-23 00:00:55 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2023-12-23 00:02:13 -0500"
@@ -471,12 +459,6 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2023-12-23 00:02:13 -0500"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/dog_food": {
-    "criteria": {
-      "has_any_ingredient": "2023-12-23 00:02:21 -0500"
     },
     "done": true
   },
@@ -501,12 +483,6 @@
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2023-12-23 00:02:13 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2023-12-23 00:02:21 -0500"
     },
     "done": true
   },
@@ -558,21 +534,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/bone_broth": {
-    "criteria": {
-      "has_bone": "2023-12-23 00:02:21 -0500"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2023-12-23 00:02:13 -0500"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
-    "criteria": {
-      "has_rotten_flesh": "2023-12-23 00:02:21 -0500"
     },
     "done": true
   },
@@ -612,30 +576,6 @@
     },
     "done": true
   },
-  "aether:recipes/combat/shield_repairing": {
-    "criteria": {
-      "has_shield": "2023-12-23 00:02:21 -0500"
-    },
-    "done": true
-  },
-  "apotheosis:affix/rare": {
-    "criteria": {
-      "sword": "2023-12-23 00:02:21 -0500"
-    },
-    "done": true
-  },
-  "skilltree:recipes/combat/bone_quiver": {
-    "criteria": {
-      "has_bone": "2023-12-23 00:02:21 -0500"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2023-12-23 00:02:19 -0500"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/twilight_oak_boat": {
     "criteria": {
       "in_water": "2023-12-23 00:02:13 -0500"
@@ -663,12 +603,6 @@
   "twilightforest:recipes/transportation/transformation_boat": {
     "criteria": {
       "in_water": "2023-12-23 00:02:13 -0500"
-    },
-    "done": true
-  },
-  "apotheosis:affix/root": {
-    "criteria": {
-      "sword": "2023-12-23 00:02:21 -0500"
     },
     "done": true
   },
@@ -702,12 +636,6 @@
     },
     "done": true
   },
-  "apotheosis:affix/random": {
-    "criteria": {
-      "sword": "2023-12-23 00:02:21 -0500"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2023-12-23 00:02:13 -0500"
@@ -720,9 +648,87 @@
     },
     "done": true
   },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2023-12-23 00:02:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2023-12-23 00:02:19 -0500"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/assassin_necklace": {
+    "criteria": {
+      "has_bone": "2023-12-23 00:02:21 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2023-12-23 00:02:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2023-12-23 00:02:21 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2023-12-23 00:02:21 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2023-12-23 00:02:21 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2023-12-23 00:02:21 -0500"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2023-12-23 00:02:21 -0500"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/bone_quiver": {
+    "criteria": {
+      "has_bone": "2023-12-23 00:02:21 -0500"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2023-12-23 00:02:21 -0500"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2023-12-23 00:02:21 -0500"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/bone": {
     "criteria": {
       "has_item": "2023-12-23 00:02:21 -0500"
+    },
+    "done": true
+  },
+  "vampirism:recipes/food/general/garlic_bread": {
+    "criteria": {
+      "has_bread": "2023-12-23 16:37:54 -0500"
     },
     "done": true
   },
